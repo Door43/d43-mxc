@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mxc:home|Door43 (mxc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mxc|d43-mxc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mxc/archive/master.zip|d43-mxc.zip]]
+
+**Recent Changes**
+{{changes>ns = mxc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mxc|Ethnologue data]]
+
